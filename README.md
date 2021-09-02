@@ -1,6 +1,6 @@
 # 3623
 
-![3623](https://user-images.githubusercontent.com/110813/131846435-09558cf7-0d75-4cb9-87f0-c98ee058581c.png)
+![3623](https://github.com/b1ind/onethreeseventhree/blob/7578c3cde4b106425697c101794eae14a3f7426d/assets/images/og.png)
 
 - Bone Wand
 - Studded Leather Armor of Power
